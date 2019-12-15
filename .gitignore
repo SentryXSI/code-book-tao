@@ -1,3 +1,6 @@
+.idea
+*.swp
+*.tmp
 composer.phar
 /vendor/
 
