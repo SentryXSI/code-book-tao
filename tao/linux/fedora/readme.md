@@ -1,13 +1,13 @@
 # Fedora
 
+Current version : 31    
+
     https://getfedora.org/
     
 About :
 
     https://fedoraproject.org/wiki/Overview
     
-Current version : 31    
-
     Server
     Workstation [ Gnome ]
     Silverblue
@@ -30,6 +30,7 @@ Alt Downloads :
 Rawhide :  
 
     https://fedoraproject.org/wiki/Releases/Rawhide    
+    https://docs.fedoraproject.org/en-US/fedora/rawhide/install-guide/  
 
 Labs :   
 
