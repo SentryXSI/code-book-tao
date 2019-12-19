@@ -1,5 +1,7 @@
 # Linux
 
+Operating Systems   
+
 Resources 
 
     Alpine
@@ -13,4 +15,12 @@ Resources
     Manjaro
     Mint
     MX-Linux
+    
+Desktops  
+
+    cinnamon
+    gnome
+    kde
+    mate
+    xfce  
     

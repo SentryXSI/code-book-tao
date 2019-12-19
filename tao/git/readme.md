@@ -16,10 +16,17 @@ Resources :
 Workflows :     
 
     https://www.atlassian.com/git/tutorials/comparing-workflows
-    
-    
+
 SSH Keys :  
 
     https://help.github.com/en/articles/checking-for-existing-ssh-keys
     https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+HUB :
+        
+    https://github.com/github/hub
+    https://hub.github.com/hub.1.html
+    https://hub.github.com/hub-api.1.html
+    https://github.com/github/hub/blob/master/etc/hub.bash_completion.sh
+
 
