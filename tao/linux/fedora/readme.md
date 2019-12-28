@@ -10,7 +10,7 @@ About :
     
     Server
     Workstation [ Gnome ]
-    Silverblue
+    Silverblue  [ Gnome ]
     CoreOS
     
 Spins  
