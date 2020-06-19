@@ -23,7 +23,7 @@ Cake Validator
     https://api.cakephp.org/3.8/namespace-Cake.Validation.html
     https://api.cakephp.org/3.8/source-class-Cake.Validation.Validator.html
 
-CodeIgniter 
+CodeIgniter Validation
     
     https://codeigniter4.github.io/userguide/libraries/validation.html
     https://codeigniter.com/userguide2/libraries/form_validation.html
@@ -46,6 +46,11 @@ Inspekt
 Ionizer - ParagonIE      
 
     https://github.com/paragonie/ionizer
+    
+Joomla
+
+    https://github.com/joomla-framework/filter
+    https://github.com/joomla-framework/input
 
 Laravel Validation 
 
@@ -88,6 +93,10 @@ Phalcon Validation
 
     https://docs.phalcon.io/4.0/en/validation
     https://docs.phalcon.io/3.4/en/validation
+    https://github.com/phalcon/cphalcon/tree/master/phalcon/Filter
+    https://github.com/phalcon/cphalcon/blob/master/phalcon/Filter.zep
+    https://github.com/phalcon/cphalcon/blob/master/phalcon/Filter/FilterFactory.zep
+    https://github.com/phalcon/cphalcon/tree/master/phalcon/Filter/Sanitize
 
 Plan 
 
@@ -101,6 +110,11 @@ Respect
 Simple Validator 
 
     https://github.com/cangelis/simple-validator
+
+Symfony Validator  
+
+    https://github.com/symfony/Validator
+    https://symfony.com/doc/current/components/validator.html
 
 Validation Kit     
 
@@ -122,7 +136,3 @@ Vlad
 Zend Validator  
 
     https://github.com/zendframework/zend-validator
-
-Joomla Filter
-
-    https://github.com/joomla-framework/filter
