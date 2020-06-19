@@ -123,5 +123,6 @@ Zend Validator
 
     https://github.com/zendframework/zend-validator
 
+Joomla Filter
 
-https://github.com/joomla-framework/filter
+    https://github.com/joomla-framework/filter
