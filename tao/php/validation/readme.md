@@ -2,12 +2,13 @@
 
 "Filter Input / Escape Output"    
 
+### PHP Filter Extension
 
-Search :
+    https://www.php.net/manual/en/book.filter.php
+    https://www.php.net/manual/en/filter.filters.flags.php
+    https://www.php.net/manual/en/filter.filters.validate.php
+    https://www.php.net/manual/en/filter.filters.sanitize.php   
 
-    https://github.com/topics/validation?l=php
-    https://github.com/topics/filter?l=php
-  
 ### Libraries | Repos 
  
 
@@ -136,3 +137,9 @@ Vlad
 Zend Validator  
 
     https://github.com/zendframework/zend-validator
+
+### Search
+  
+    https://github.com/topics/validation?l=php
+    https://github.com/topics/filter?l=php  
+    
