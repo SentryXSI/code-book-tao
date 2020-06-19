@@ -82,7 +82,7 @@ Particle PHP Validator
 
 Peregrine  
 
-    https://github.com/respect/validation
+    https://github.com/viveleroi/Peregrine
 
 Phalcon Validation 
 
