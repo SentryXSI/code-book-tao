@@ -14,6 +14,7 @@
 Acelot Validation
 
     https://github.com/acelot/assert
+    https://github.com/acelot/struct
     https://github.com/acelot/validation
 
 Aura.Filter  
