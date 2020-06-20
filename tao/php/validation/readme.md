@@ -88,10 +88,11 @@ Laminas Filter
     https://github.com/laminas/laminas-filter/
     https://docs.laminas.dev/laminas-filter/
 
-lib_filter | lib_sanitize
+lib_filter | lib_sanitize | lib_input
 
     https://github.com/iamcal/lib_filter
     https://github.com/iamcal/lib_sanitize
+    https://github.com/iamcal/lib_input
     
 Milform  
 
@@ -136,6 +137,7 @@ Symfony Validator
 
     https://github.com/symfony/Validator
     https://symfony.com/doc/current/components/validator.html
+    https://github.com/oscarotero/form-manager
 
 Validation Kit     
 
