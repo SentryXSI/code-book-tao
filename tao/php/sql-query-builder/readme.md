@@ -2,5 +2,11 @@
 
 Resources :   
 
-    https://github.com/spatie/laravel-query-builder  
 
+Spatie
+
+    https://github.com/spatie/laravel-query-builder  
+    
+Acelot
+
+    https://github.com/acelot/search-schema
