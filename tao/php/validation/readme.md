@@ -11,15 +11,19 @@
 
 ### Libraries | Repos 
  
+Acelot Validation
+
+    https://github.com/acelot/assert
+    https://github.com/acelot/validation
 
 Aura.Filter  
 
     https://github.com/auraphp/Aura.Filter
     http://auraphp.com/framework/2.x/en/validation/
 
-Cake Validator
+Cake Validation
 
-    https://book.cakephp.org/3/en/core-libraries/validation.html
+    https://book.cakephp.org/4/en/core-libraries/validation.html
     https://api.cakephp.org/3.8/class-Cake.Validation.Validator.html
     https://api.cakephp.org/3.8/namespace-Cake.Validation.html
     https://api.cakephp.org/3.8/source-class-Cake.Validation.Validator.html
@@ -51,6 +55,7 @@ Inspekt
 Ionizer - ParagonIE      
 
     https://github.com/paragonie/ionizer
+    https://stackoverflow.com/questions/52697587/how-to-protect-against-input-arrays
     
 Joomla
 
@@ -82,13 +87,18 @@ lib_filter | lib_sanitize
     https://github.com/iamcal/lib_filter
     https://github.com/iamcal/lib_sanitize
     
+Milform  
+
+    https://github.com/botmonster/milform 
+    
 Omega Validator
 
-     https://github.com/DivineOmega/omega-validator
+    https://github.com/DivineOmega/omega-validator
      
 Particle PHP Validator
     
     https://github.com/particle-php/Validator
+    http://validator.particle-php.com/en/latest/rules/
 
 Peregrine  
 
