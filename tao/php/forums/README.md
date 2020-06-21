@@ -5,7 +5,6 @@
 
 Addictive Hub / Community
 
-    https://github.com/addictivehub
     https://github.com/addictivehub/addictive-community
 
 Flarum
@@ -18,7 +17,6 @@ FluxBB
 
 Luna
 
-    https://github.com/GetLuna
     https://github.com/GetLuna/Luna
 
 MyBB
@@ -32,7 +30,6 @@ Natika
 October CMS Forum Plugin | RainLab
 
     https://github.com/rainlab/forum-plugin
-    https://github.com/rainlab
     https://github.com/octobercms
 
 Phosphorum | Phalcon Forum
@@ -53,7 +50,6 @@ Vanilla
    
 WoltLab 
 
-    https://github.com/WoltLab
     https://github.com/WoltLab/WCF
 
 ### Joomla
