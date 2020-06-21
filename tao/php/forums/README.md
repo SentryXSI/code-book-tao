@@ -28,6 +28,12 @@ MyBB
 Natika 
 
     https://github.com/asika32764/natika
+    
+October CMS Forum Plugin | RainLab
+
+    https://github.com/rainlab/forum-plugin
+    https://github.com/rainlab
+    https://github.com/octobercms
 
 Phosphorum | Phalcon Forum
 
@@ -37,7 +43,7 @@ PhpBB
 
     https://github.com/phpbb/phpbb
 
- PunBB
+PunBB
  
     https://github.com/punbb/punbb
 
