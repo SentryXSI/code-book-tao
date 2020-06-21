@@ -26,11 +26,6 @@ MyBB
 Natika 
 
     https://github.com/asika32764/natika
-    
-October CMS Forum Plugin | RainLab
-
-    https://github.com/rainlab/forum-plugin
-    https://github.com/octobercms
 
 Phosphorum | Phalcon Forum
 
@@ -51,6 +46,14 @@ Vanilla
 WoltLab 
 
     https://github.com/WoltLab/WCF
+
+### October CMS
+
+    https://github.com/octobercms
+
+Forum Plugin | RainLab
+
+    https://github.com/rainlab/forum-plugin
 
 ### Joomla
 
