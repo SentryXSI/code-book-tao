@@ -12,6 +12,10 @@ Flarum
 
     https://github.com/flarum/flarum
 
+FluxBB
+ 
+    https://github.com/fluxbb/fluxbb
+
 Luna
 
     https://github.com/GetLuna
@@ -32,6 +36,10 @@ Phosphorum | Phalcon Forum
 PhpBB
 
     https://github.com/phpbb/phpbb
+
+ PunBB
+ 
+    https://github.com/punbb/punbb
 
 Vanilla 
 
