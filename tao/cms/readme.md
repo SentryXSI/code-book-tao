@@ -7,7 +7,7 @@ https://github.com/topics/cms?l=php
 
 #### Secure By Design / Secure By Default
 
-Content mangement systems with a secure document root.  
+Content management systems with a secure document root.  
 
 
 1. Airship CMS
