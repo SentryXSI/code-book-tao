@@ -120,6 +120,10 @@ Phalcon Validation
     https://github.com/phalcon/cphalcon/blob/master/phalcon/Filter/FilterFactory.zep
     https://github.com/phalcon/cphalcon/tree/master/phalcon/Filter/Sanitize
 
+PHP Fluent Filter  
+
+    https://github.com/PHPFluent/Filter
+
 Plan 
 
     https://github.com/guide42/plan
@@ -156,8 +160,10 @@ Vlad
 
     https://github.com/gajus/vlad
 
-Zend Validator  
 
+Zend Input Filter / Validator [ goto Laminas ]  
+
+    https://github.com/zendframework/zend-inputfilter
     https://github.com/zendframework/zend-validator
 
 ### Search
