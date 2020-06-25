@@ -66,8 +66,18 @@ Ionizer - ParagonIE
 Joomla
 
     https://github.com/joomla-framework/filter
-    https://github.com/joomla-framework/input
+    https://github.com/joomla-framework/input  
+    
+Laminas Filter
+    
+    https://github.com/laminas/laminas-filter/
+    https://docs.laminas.dev/laminas-filter/    
+    
+Laminas Input Filter
 
+    https://github.com/laminas/laminas-inputfilter/
+    https://docs.laminas.dev/laminas-inputfilter/
+    
 Laravel Validation 
 
     https://laravel.com/docs/7.x/validation
@@ -76,23 +86,17 @@ Laravel Validation
 Laminas Validator
 
     https://github.com/laminas/laminas-validator
-    https://docs.laminas.dev/laminas-validator/
-    
-Laminas Input Filter
-
-    https://github.com/laminas/laminas-inputfilter/
-    https://docs.laminas.dev/laminas-inputfilter/
-    
-Laminas Filter
-    
-    https://github.com/laminas/laminas-filter/
-    https://docs.laminas.dev/laminas-filter/
+    https://docs.laminas.dev/laminas-validator/ 
 
 lib_filter | lib_sanitize | lib_input
 
     https://github.com/iamcal/lib_filter
     https://github.com/iamcal/lib_sanitize
     https://github.com/iamcal/lib_input
+    
+Linna Filter
+
+    https://github.com/linna/filter  
     
 Milform  
 
@@ -161,8 +165,9 @@ Vlad
     https://github.com/gajus/vlad
 
 
-Zend Input Filter / Validator [ goto Laminas ]  
+Zend Filter | Input Filter | Validator [ goto Laminas ]  
 
+    https://github.com/zendframework/zend-filter
     https://github.com/zendframework/zend-inputfilter
     https://github.com/zendframework/zend-validator
 
