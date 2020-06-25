@@ -1,6 +1,6 @@
 # Fedora
 
-Current version : 31    
+Current version : 32    
 
     https://getfedora.org/
     
@@ -52,10 +52,3 @@ LiveCD tools :
     https://github.com/rhinstaller/livecd-tools
     https://fedoraproject.org/wiki/Livemedia-creator-_How_to_create_and_use_a_Live_CD
 
-
-    
-    
-
-
-
-    
