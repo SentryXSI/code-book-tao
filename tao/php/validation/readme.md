@@ -77,16 +77,16 @@ Laminas Input Filter
 
     https://github.com/laminas/laminas-inputfilter/
     https://docs.laminas.dev/laminas-inputfilter/
-    
-Laravel Validation 
-
-    https://laravel.com/docs/7.x/validation
-    https://laravel-news.com/laravel-validation-101-controllers-form-requests-and-rules
 
 Laminas Validator
 
     https://github.com/laminas/laminas-validator
     https://docs.laminas.dev/laminas-validator/ 
+
+Laravel Validation 
+
+    https://laravel.com/docs/7.x/validation
+    https://laravel-news.com/laravel-validation-101-controllers-form-requests-and-rules
 
 lib_filter | lib_sanitize | lib_input
 
