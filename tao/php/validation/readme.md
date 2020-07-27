@@ -123,6 +123,7 @@ Phalcon Validation
     https://github.com/phalcon/cphalcon/blob/master/phalcon/Filter.zep
     https://github.com/phalcon/cphalcon/blob/master/phalcon/Filter/FilterFactory.zep
     https://github.com/phalcon/cphalcon/tree/master/phalcon/Filter/Sanitize
+    https://github.com/izica/phalcon-validation
 
 PHP Fluent Filter  
 
