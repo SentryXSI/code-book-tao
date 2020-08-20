@@ -5,9 +5,9 @@ Resources :
 https://github.com/topics/cms?l=php
 
 
-#### Secure By Design / Secure By Default
+#### Secure By Design | Secure By Default
 
-Content management systems with a secure document root.  
+Php based Content management systems with a secure document root.  
 
 
 1. Airship CMS
@@ -18,3 +18,8 @@ Content management systems with a secure document root.
 
 4. Statamic
 
+5. JoomlaTools Platform  
+ 
+6. wp-bedrock 
+
+7. ?
