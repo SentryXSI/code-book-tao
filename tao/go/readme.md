@@ -16,15 +16,26 @@ sudo dnf install golang
 
 ## Guides
 
-#### Go101
-https://github.com/go101/go101/wiki  
-
 #### Golangbot
 https://golangbot.com/  
+
+#### Guide to Go
+list of guides to start with  
+https://www.calhoun.io/guide-to-go/  
+https://gitconnected.com/learn/golang  
+
+#### LearnGo
+https://github.com/inancgumus/learngo  
+
+#### Go101
+https://go101.org/article/101.html  
+https://github.com/go101/go101/wiki  
 
 #### Golang Bootcamp
 http://www.golangbootcamp.com/book  
 
+#### Learn Go in Twenty Minutes
+https://ibraheem.ca/writings/go-in-twenty/  
 
 ## Video Tutorials
 
