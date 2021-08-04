@@ -1,6 +1,6 @@
 # PHP Firewall Guide
 
-PHP based application firewalls, intrusion detection / prevention systems ( IDS | IPS )
+PHP based web application firewalls ( WAF ), intrusion detection / prevention systems ( IDS | IPS )
 
 ## Firewall 
 
@@ -30,4 +30,5 @@ Virus Total API
 
 ## Topics
 
+https://github.com/topics/php-firewall  
 https://github.com/topics/firewall?l=php  
