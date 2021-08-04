@@ -8,7 +8,7 @@ https://golang.org/
 
 https://golang.org/doc/install  
 
-Install Golang on Fedora linux 
+Install Golang on Fedora linux  
 
 ```shell
 sudo dnf install golang
@@ -16,9 +16,14 @@ sudo dnf install golang
 
 ## Guides
 
-#### Golang Bootcamp  
-http://www.golangbootcamp.com/book  
+#### Go101
+https://github.com/go101/go101/wiki  
 
+#### Golangbot
+https://golangbot.com/  
+
+#### Golang Bootcamp
+http://www.golangbootcamp.com/book  
 
 
 ## Video Tutorials
