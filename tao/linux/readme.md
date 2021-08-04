@@ -4,6 +4,7 @@ Operating Systems
 
 Resources 
 
+    Alma  
     Alpine
     Arch
     Bodhi
@@ -15,6 +16,7 @@ Resources
     Manjaro
     Mint
     MX-Linux
+    Rocky  
     
 Desktops  
 
