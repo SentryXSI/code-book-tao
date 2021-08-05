@@ -48,6 +48,9 @@ http://www.golangbootcamp.com/book
 #### Learn Go in Twenty Minutes
 https://ibraheem.ca/writings/go-in-twenty/  
 
+#### Golang Developer Roadmap
+https://github.com/Alikhll/golang-developer-roadmap  
+
 ## Video Tutorials
 
 #### NetNinja 
