@@ -1,11 +1,15 @@
-# Go 
+# Go // Golang Resources Guide
 
+    Go is a statically-typed, imperative, and compiled language.
+    
+    
+### Go Home  
 https://golang.org/  
 
-## Golang Resources Guide  
+### Go Wiki
+https://github.com/golang/go/wiki  
 
 #### Installation
-
 https://golang.org/doc/install  
 
 Install Golang on Fedora linux  
@@ -14,7 +18,14 @@ Install Golang on Fedora linux
 sudo dnf install golang
 ```
 
+## Awesome Go  
+https://github.com/avelino/awesome-go  
+https://github.com/guardrailsio/awesome-golang-security  
+
 ## Guides
+
+#### Golang Docs
+https://golang.org/doc/tutorial/getting-started  
 
 #### Golangbot
 https://golangbot.com/  
