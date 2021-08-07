@@ -51,20 +51,26 @@ https://ibraheem.ca/writings/go-in-twenty/
 #### Golang Developer Roadmap
 https://github.com/Alikhll/golang-developer-roadmap  
 
-## Video Tutorials
+## Video Tutorials  
 
-#### NetNinja 
+#### Golang Dojo  
+https://www.youtube.com/channel/UCEXtPiqFrcdzFRKqwazI1NA  
 
-Go Tutorial (Golang) for Beginners  
+#### NetNinja - Go Tutorial (Golang) for Beginners  
 https://www.youtube.com/watch?v=etSN4X_fCnM&list=PL4cUxeGkcC9gC88BEo9czgyS72A3doDeM  
 
-## Golang Community
+## Design Patterns
 
-#### gobridge
+#### Design Patterns in Go
+https://refactoring.guru/design-patterns/go  
+
+## Golang Community  
+
+#### GoBridge  
 https://github.com/gobridge  
 https://forum.golangbridge.org/  
 
-#### reddit
+#### Reddit
 https://www.reddit.com/r/golang/  
 
 #### Stack Overflow
